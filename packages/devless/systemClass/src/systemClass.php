@@ -529,7 +529,7 @@ class devless
             $profileUpdate['password'] = Helper::password_hash($profileUpdate['password']);
         }
         unset($profileUpdate['id']);
-        return $profileUpdate
+        return $profileUpdate;
     }
     /**
      * Login users with username and password
