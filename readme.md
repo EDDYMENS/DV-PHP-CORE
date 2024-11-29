@@ -3,23 +3,23 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/cb7072312ffb482ebb57ca2b6e5cf3a9)](https://www.codacy.com/app/EDDYMENS/DV-PHP-CORE?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DevlessTeam/DV-PHP-CORE&amp;utm_campaign=Badge_Grade)
 [![Open Source Helpers](https://www.codetriage.com/devlessteam/dv-php-core/badges/users.svg)](https://www.codetriage.com/devlessteam/dv-php-core)
 
-## Devless is a tool for ready-made back-end for development of web or mobile applications. It is fully open source under the permissive Apache v2 license. This means that you can develop your front end without worrying about neither back-end code or the business risk of a propitiatory backend-as-a-service.
+## Devless was a ready-made backend for developing web or mobile applications. It is fully open source under the permissive Apache v2 license. This means that you can develop your front end without worrying about either the backend code or the business risk of a favorable backend-as-a-service.
  
-## DevLess provides the perfect starting point for your next big idea. Forget all the boilerplate and focus on what matters: your APPLICATION and USERS its like Laravel Spark and also comes with the ease Parse(RIP) had. https://devless.io/
+## DevLess provides the perfect starting point for your next big idea. Forget all the boilerplate and focus on what matters: your APPLICATION and USERS it's like Laravel Spark and also comes with the ease Parse(RIP) had. https://devless.io/
 
 **How?**
 
-**Well first upto 93% of the things you do on DevLess is pure configuration via GUI**
+**Well first up to 93% of the things you do on DevLess are pure configuration via GUI**
 ![Service Image](http://fs5.directupload.net/images/161228/8rrzj4ms.png)
 
-**For example this is how you create tables on DevLess (migration equivalence in frameworks)*
+**For example, this is how you create tables on DevLess (migration equivalence in frameworks)*
 ![Tables Image](http://fs5.directupload.net/images/161228/6mzzjt8c.png)
 
 **Deciding on which table to make  available to end users via automagically generated APIs is just a tab away**
 ![Privacy Image](http://fs5.directupload.net/images/161228/7v3n3nzv.png)
  **Working with Data is a joy**
  ![data table](http://fs5.directupload.net/images/161228/8pzuahgt.png)
-**Deployment is a breeze all you have to do is export your app and import it into another DevLess instance on the cloud could be via our [docker image](https://hub.docker.com/r/eddymens/devless/)**
+**Deployment is a breeze all you have to do is export your app and import it into another DevLess instance on the cloud, which could be via our [docker image](https://hub.docker.com/r/eddymens/devless/)**
 
 ## This part ensures that no shit 💩 is blown into the project
 The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” in this document are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119).
